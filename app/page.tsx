@@ -1,9 +1,9 @@
-import Image from "next/image"
-import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { Separator } from "@/components/ui/separator"
-import { Github, Linkedin, Twitter, Mail, ExternalLink } from "lucide-react"
+import { ExternalLink, Github, Linkedin, Mail, Twitter } from "lucide-react"
+import Image from "next/image"
+import Link from "next/link"
 
 export default function HomePage() {
   return (
@@ -12,8 +12,8 @@ export default function HomePage() {
       <header className="bg-white border-b-4 border-black">
         <div className="container mx-auto px-4 py-6">
           <div className="text-center">
-            <h1 className="text-6xl font-bold font-serif text-black mb-2">THE DAILY YOU</h1>
-            <p className="text-lg text-gray-600 font-serif italic">Personal Chronicles & Professional Pursuits</p>
+            <h1 className="text-6xl font-bold font-serif text-black mb-2">RAKSHA RAMESH</h1>
+            <p className="text-lg text-gray-600 font-serif italic">AI Engineer & Software Development Specialist</p>
             <div className="flex justify-center items-center gap-4 mt-4 text-sm">
               <span>Vol. 1, No. 1</span>
               <Separator orientation="vertical" className="h-4" />
@@ -76,27 +76,22 @@ export default function HomePage() {
                   <div className="md:col-span-2">
                     <div className="columns-1 md:columns-2 gap-6 text-justify">
                       <p className="mb-4 text-sm leading-relaxed">
-                        <span className="text-4xl font-bold float-left mr-2 leading-none">W</span>
-                        elcome to my digital newsroom! I'm a passionate professional dedicated to crafting exceptional
-                        experiences and telling compelling stories through code and creativity. With a background
-                        spanning multiple disciplines, I bring a unique perspective to every project I undertake.
+                        <span className="text-4xl font-bold float-left mr-2 leading-none">A</span>s an AI Engineer and
+                        Software Development Specialist, my work is centered on machine learning, cloud infrastructure,
+                        and designing scalable systems. I'm currently pursuing my Master's in Computer Science with a
+                        focus on AI at the University of Pennsylvania, where I'm digging deep into the next wave of
+                        technology.
                       </p>
-
                       <p className="mb-4 text-sm leading-relaxed">
-                        My journey began in the world of technology, where I discovered my love for problem-solving and
-                        innovation. Over the years, I've honed my skills in various domains, always staying curious and
-                        eager to learn new things.
+                        I have a proven track record of delivering high-impact solutions. During my time at Walmart
+                        Global Tech, I was proud to help reduce system outages by 15%, which translated to an estimated
+                        $15 million in savings. My passion for research also led to a published paper in IEEE, where my
+                        work on abnormality detection in EEG recordings achieved 90.78% classification accuracy.
                       </p>
-
                       <p className="mb-4 text-sm leading-relaxed">
-                        When I'm not coding or working on projects, you can find me exploring new technologies, reading
-                        about industry trends, or sharing insights with the community. I believe in the power of
-                        collaboration and continuous learning.
-                      </p>
-
-                      <p className="text-sm leading-relaxed">
-                        This website serves as my digital headquarters, where I share my professional journey, thoughts,
-                        and connect with like-minded individuals. Feel free to explore and don't hesitate to reach out!
+                        I'm driven by the challenge of solving complex, real-world problems with cutting-edge AI. This
+                        digital space is where I document my professional journey and share what I'm learning along the
+                        way. Thank you for visiting.
                       </p>
                     </div>
                   </div>
@@ -152,7 +147,7 @@ export default function HomePage() {
                     className="w-full justify-start border-black hover:bg-black hover:text-white"
                     asChild
                   >
-                    <Link href="mailto:your.email@example.com">
+                    <Link href="mailto:rakshar@seas.upenn.edu">
                       <Mail className="mr-2 h-4 w-4" />
                       Press Inquiries
                     </Link>
