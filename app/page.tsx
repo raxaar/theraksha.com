@@ -13,7 +13,7 @@ export default function HomePage() {
         <div className="container mx-auto px-4 py-6">
           <div className="text-center">
             <h1 className="text-6xl font-bold font-serif text-black mb-2">RAKSHA RAMESH</h1>
-            <p className="text-lg text-gray-600 font-serif italic">AI Engineer & Software Development Specialist</p>
+            <p className="text-lg text-gray-600 font-serif italic">Hopeful by design, stubborn by default.</p>
             <div className="flex justify-center items-center gap-4 mt-4 text-sm">
               <span>Vol. 1, No. 1</span>
               <Separator orientation="vertical" className="h-4" />
