@@ -63,7 +63,7 @@ export default function HomePage() {
                   <div className="md:col-span-1">
                     <div className="border-2 border-black p-2 bg-white">
                       <Image
-                        src="/Users/rakshar/Desktop/theraksha.com/app/images/IMG-20210207-WA0000_Original Copy.JPG"
+                        src="/images/headshot.jpg"
                         alt="Your professional photo"
                         width={250}
                         height={300}
