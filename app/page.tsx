@@ -76,22 +76,38 @@ export default function HomePage() {
                   <div className="md:col-span-2">
                     <div className="columns-1 md:columns-2 gap-6 text-justify">
                       <p className="mb-4 text-sm leading-relaxed">
-                        <span className="text-4xl font-bold float-left mr-2 leading-none">A</span>s an AI Engineer and
-                        Software Development Specialist, my work is centered on machine learning, cloud infrastructure,
-                        and designing scalable systems. I'm currently pursuing my Master's in Computer Science with a
-                        focus on AI at the University of Pennsylvania, where I'm digging deep into the next wave of
-                        technology.
+                        <span className="text-4xl font-bold float-left mr-2 leading-none">P</span>eople who know me would tell you I’m a bit too much—too passionate, too intense, too optimistic. But honestly? That’s what makes life fun. And it’s what’s gotten me here.
                       </p>
                       <p className="mb-4 text-sm leading-relaxed">
-                        I have a proven track record of delivering high-impact solutions. During my time at Walmart
-                        Global Tech, I was proud to help reduce system outages by 15%, which translated to an estimated
-                        $15 million in savings. My passion for research also led to a published paper in IEEE, where my
-                        work on abnormality detection in EEG recordings achieved 90.78% classification accuracy.
+                        I was deep in med school prep when I had a realization: if I kept going, I might end up diagnosing patients alongside AI. That didn’t freak me out, it lit me up. I didn’t want to compete with the future. I wanted to build it. So I changed course, and I’ve been chasing the most interesting problems in tech ever since.
                       </p>
                       <p className="mb-4 text-sm leading-relaxed">
-                        I'm driven by the challenge of solving complex, real-world problems with cutting-edge AI. This
-                        digital space is where I document my professional journey and share what I'm learning along the
-                        way. Thank you for visiting.
+                        Since then, I’ve worked on EEG models to help doctors make better calls, built backend systems that power Walmart’s e-commerce platform, and now I’m using GenAI to untangle messy insurance data at Crum & Forster. Basically: if there’s complexity, cross-functionality, or chaos - I’m probably in the middle of it, grinning.
+                      </p>
+                      <p className="mb-4 text-sm leading-relaxed">
+                        I love work that sits at the intersection: where engineering meets empathy, where product meets people, where “how” and “why” go out for coffee. I’ve written code, led teams, run user interviews, and shipped MVPs that actually work. At Penn, where I’m wrapping up my Master’s in Computer and Information Science, I’m also a Head TA, PMing five senior project teams and helping them go from “we think this is cool” to “here’s our launch link.”
+                      </p>
+                      <p className="mb-4 text-sm leading-relaxed">
+                        Along the way, I’ve stayed rooted in something just as important to me: expanding access. Back in undergrad, I chaired my university’s ACM-W chapter, helping first-year women in tech find their footing. I also volunteered with U&I Trust, where I led a small team teaching English to over 20 girls from underserved communities in India. That work gave me perspective and reminded me that sometimes, the simplest thing you can offer is belief.
+
+                      </p>
+                      <p className="mb-4 text-sm leading-relaxed">
+                        But the things I build outside of work say just as much about me.
+
+                      </p>
+                      <p className="mb-4 text-sm leading-relaxed">
+                        I built an AI-powered comic diary to explore how memory and machine learning could tell stories together. I made a mini-operating system just to understand what abstraction feels like from the ground up. I love learning things that have nothing to do with each other, and watching what happens when they collide.
+                      </p>
+                      <p className="mb-4 text-sm leading-relaxed">
+                        Lately, I’ve been deep into chess, crochet, and psychology. I’m reading Think by Simon Blackburn and Midnight’s Children by Salman Rushdie- one for perspective, the other for wonder. I used to run a little music channel on YouTube, and while I don’t post anymore, that creative spark still shows up everywhere in my work.
+
+                      </p>
+                      <p className="mb-4 text-sm leading-relaxed">
+                        I learn fast. I go all in. I ask too many questions. And I really, really love connecting the dots.
+
+                      </p>
+                      <p className="mb-4 text-sm leading-relaxed">
+                        If you’re building something meaningful, messy, or just a little magical- say hi!
                       </p>
                     </div>
                   </div>
